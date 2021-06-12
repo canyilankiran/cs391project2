@@ -1,4 +1,4 @@
-###CS391- Hotel Simulation Project. Members: Can Yılankıran(S011483), Gökberk Arslantaş(S012719), Kıvanç Yılmaz(S012733).###
+**CS391- Hotel Simulation Project. Members: Can Yılankıran(S011483), Gökberk Arslantaş(S012719), Kıvanç Yılmaz(S012733)**
 
 **Description of the project** 
 
