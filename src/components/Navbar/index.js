@@ -13,7 +13,6 @@ const Navbar = () => {
         <>
             <Nav>
                 <Bars />
-
                 <NavMenu>
                     <NavLink to='/hotelinfo' activeStyle>
                         Hotel Information
