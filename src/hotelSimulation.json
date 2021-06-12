@@ -1,0 +1,149 @@
+{
+  "posts": [
+    {
+      "username": "tosicann",
+      "password": "123456",
+      "email": "can.yilankiran@ozu.edu.tr",
+      "name": "can yilankiran",
+      "surname": "yılankıra",
+      "sNumber": "s011483",
+      "id": 1
+    }
+  ],
+  "userDecisions": [
+    {
+      "stRoom": 0,
+      "clRoom": 0,
+      "delRoom": 0,
+      "suitRoom": 0,
+      "id": 1
+    },
+    {
+      "stRoom": "715",
+      "clRoom": "897",
+      "delRoom": "715",
+      "suitRoom": "727",
+      "id": 2
+    },
+    {
+      "stRoom": "715",
+      "clRoom": "897",
+      "delRoom": "715",
+      "suitRoom": "727",
+      "id": 3
+    },
+    {
+      "stRoom": "715",
+      "clRoom": "897",
+      "delRoom": "715",
+      "suitRoom": "727",
+      "id": 4
+    },
+    {
+      "stRoom": "715",
+      "clRoom": "897",
+      "delRoom": "715",
+      "suitRoom": "727",
+      "id": 5
+    },
+    {
+      "stRoom": "746",
+      "clRoom": "973",
+      "delRoom": "910",
+      "suitRoom": "1004",
+      "id": 6
+    },
+    {
+      "stRoom": "746",
+      "clRoom": "973",
+      "delRoom": "910",
+      "suitRoom": "1004",
+      "id": 7
+    },
+    {
+      "stRoom": "746",
+      "clRoom": "973",
+      "delRoom": "910",
+      "suitRoom": "1004",
+      "id": 8
+    },
+    {
+      "stRoom": "746",
+      "clRoom": "973",
+      "delRoom": "910",
+      "suitRoom": "1004",
+      "id": 9
+    },
+    {
+      "stRoom": "438",
+      "clRoom": "973",
+      "delRoom": "910",
+      "suitRoom": "1004",
+      "id": 10
+    },
+    {
+      "stRoom": "790",
+      "clRoom": "759",
+      "delRoom": "803",
+      "suitRoom": "872",
+      "id": 11
+    },
+    {
+      "stRoom": "771",
+      "clRoom": "702",
+      "delRoom": "998",
+      "suitRoom": "778",
+      "id": 12
+    },
+    {
+      "stRoom": "501",
+      "clRoom": "702",
+      "delRoom": "998",
+      "suitRoom": "778",
+      "id": 13
+    },
+    {
+      "stRoom": "501",
+      "clRoom": "702",
+      "delRoom": "998",
+      "suitRoom": "778",
+      "id": 14
+    },
+    {
+      "stRoom": "501",
+      "clRoom": "702",
+      "delRoom": "998",
+      "suitRoom": "778",
+      "id": 15
+    },
+    {
+      "stRoom": "501",
+      "clRoom": "702",
+      "delRoom": "998",
+      "suitRoom": "778",
+      "id": 16
+    },
+    {
+      "stRoom": "501",
+      "clRoom": "702",
+      "delRoom": "998",
+      "suitRoom": "778",
+      "id": 17
+    },
+    {
+      "stRoom": "891",
+      "clRoom": "683",
+      "delRoom": "1061",
+      "suitRoom": "841",
+      "id": 18
+    }
+  ],
+  "simulationCriteria": [
+    {
+      "maxPriceForStandardRoom": "650",
+      "maxPriceForClubRoom": "850",
+      "maxPriceForDeluxeRoom": "1000",
+      "maxPriceForSuitRoom": "1150"
+    }
+  ]
+}
