@@ -21,6 +21,7 @@
     width: 55%;     /*içerisinde olduğu alanın %75 genişliği kadar genişliyor*/
     margin-bottom: 5px;    /*alttaki eleman ile arasındaki mesafe*/
     margin-top: 5px;
+    margin-left: 105px;
     color: rgb(38, 50, 56);
     background: rgba(85, 82, 82, 0.17);
     padding: 10px 10px; /*kutunun boyutu*/
