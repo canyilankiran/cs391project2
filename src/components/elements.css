@@ -1,0 +1,41 @@
+.buttons {
+    cursor: pointer;
+    border-radius: 5em;
+
+    color: #ffffff; /* butonun içerisindeki yazının rengi*/
+    background: linear-gradient(to right, rgb(109, 133, 231), #0b23b3); /*butonun iki rengi*/
+
+    border: 0;
+    box-shadow: 0 0 20px 1px rgba(0, 0, 0, 0.04);
+
+    padding-left: 50px;
+    padding-right: 50px;
+    padding-bottom: 10px;
+    padding-top: 5px;
+
+    font-size: 17px;
+    font-family: 'Ubuntu', sans-serif;
+}
+
+.textfields {
+    width: 55%;     /*içerisinde olduğu alanın %75 genişliği kadar genişliyor*/
+    margin-bottom: 5px;    /*alttaki eleman ile arasındaki mesafe*/
+    margin-top: 5px;
+    color: rgb(38, 50, 56);
+    background: rgba(85, 82, 82, 0.17);
+    padding: 10px 10px; /*kutunun boyutu*/
+    border-radius: 20px;
+    outline: none;
+    box-sizing: border-box;
+    border: 2px solid rgba(0, 0, 0, 0.02);
+
+    letter-spacing: 1px;  /*içerisindeki yazının harfleri arasındaki boşluk*/
+    text-align: center; /*içerisindeki yazıyı center ediyor*/
+    font-weight: 700;
+    font-size: 14px;
+    font-family: Open Sans, serif;
+    /*font-family: 'Ubuntu', fantasy;*/
+}
+
+
+
